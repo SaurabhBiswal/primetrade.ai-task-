@@ -510,7 +510,6 @@ Primetrade.ai/
 ## 📝 Additional Notes
 
 ### Code Quality
-- ✅ TypeScript for type safety
 - ✅ Modular architecture (controllers, routes, models)
 - ✅ Consistent error handling
 - ✅ Input validation on both client and server
@@ -536,10 +535,7 @@ Primetrade.ai/
 ## 👨‍💻 Developer
 
 **Assignment Submission for:** Frontend Developer Intern Position
-
-**Contact:**
-- Email: joydip@primetrade.ai, hello@primetrade.ai, chetan@primetrade.ai
-- CC: sonika@primetrade.ai
+**Developed by:** Saurabh Biswal
 
 ---
 
