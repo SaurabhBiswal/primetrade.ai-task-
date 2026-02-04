@@ -183,6 +183,11 @@ Or create your own account using the signup page!
 
 ## 📚 API Documentation
 
+### 📥 Postman Collection
+A complete Postman collection is included in the project root: `TaskFlow_API.postman_collection.json`.
+You can import this into Postman to verify all endpoints quickly.
+
+
 ### Base URL
 ```
 http://localhost:5000/api/v1
