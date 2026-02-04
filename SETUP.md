@@ -17,7 +17,7 @@
 
 3. **Update Backend .env**
    ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/primetrade-auth
+   MONGODB_URI=mongodb+srv://<your-username>:<your-password>@cluster.mongodb.net/primetrade-auth
    JWT_SECRET=your-super-secret-jwt-key-change-this
    JWT_EXPIRES_IN=7d
    PORT=5000
